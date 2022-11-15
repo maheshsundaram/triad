@@ -6,6 +6,8 @@
 
 Simple template for using THREE.js with Typescript and ESModules and no build/bundle tooling (besides tsc).
 
+![](./screenshot.png)
+
 ## ➡️ Setup
 
 `npm install` installs Typescript and THREE.js and copies the THREE.js build to `modules/`.
